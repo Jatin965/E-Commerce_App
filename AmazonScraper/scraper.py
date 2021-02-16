@@ -4,6 +4,7 @@ from datetime import datetime
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 
+
 from scraper_config import (
     get_chrome_web_driver,
     get_web_driver_options,
